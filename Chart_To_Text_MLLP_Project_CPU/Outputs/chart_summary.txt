@@ -1,0 +1,1 @@
+The chart shows an overall decrease from Sales: 500.0 to Legal: 200.0. Sales: has thehighest value of 500.0,whileLegal: has the lowest value of 200.0.
