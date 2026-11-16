@@ -2,7 +2,7 @@
 CPU-Based MLLP mini-project for chart and infrographics text summarization using EasyOCR and FLAN-T5-small.
 # Chart-to-Text Summarisation
 
-**MLLP Mini-Project | KIIT University | B.Tech ECSc**
+**MLLP Mini-Project | Henrique-Bila-2330456 | KIIT University | B.Tech ECSc**
 
 ## 1. Project Overview
 
