@@ -26,7 +26,7 @@ Image Upload → Image Preprocessing → OCR → Structured Data Verification �
 
 ## 4. How to Run
 
-1. Open `notebooks/Chart_to_Text_CPU.ipynb` in Google Colab.
+1. Open `notebooks/Chart_to_Text_Summarization_H_Bila.ipynb` in Google Colab.
 2. Select CPU as the runtime.
 3. Run the installation cells.
 4. Upload a chart image.
